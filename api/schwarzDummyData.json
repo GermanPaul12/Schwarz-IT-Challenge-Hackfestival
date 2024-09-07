@@ -1,0 +1,862 @@
+[
+  {
+    "id": "8376291",
+    "category": "Vegetables",
+    "name": "Organic Cherry Tomatoes",
+    "expiresAt": "2024-09-10",
+    "price": 2.99,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 48
+  },
+  {
+    "id": "5728364",
+    "category": "Vegetables",
+    "name": "Sweet Potatoes",
+    "expiresAt": "2024-10-15",
+    "price": 1.79,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 23
+  },
+  {
+    "id": "9126483",
+    "category": "Vegetables",
+    "name": "Broccoli Florets",
+    "expiresAt": "2024-09-11",
+    "price": 2.49,
+    "weight": "400g",
+    "packagingUnit": "bag",
+    "available": 17
+  },
+  {
+    "id": "4537281",
+    "category": "Vegetables",
+    "name": "Red Bell Peppers",
+    "expiresAt": "2024-09-08",
+    "price": 1.29,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 62
+  },
+  {
+    "id": "1928374",
+    "category": "Vegetables",
+    "name": "Baby Spinach",
+    "expiresAt": "2024-09-27",
+    "price": 3.99,
+    "weight": "150g",
+    "packagingUnit": "bag",
+    "available": 8
+  },
+  {
+    "id": "6273849",
+    "category": "Vegetables",
+    "name": "White Onions",
+    "expiresAt": "2025-01-10",
+    "price": 0.79,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 41
+  },
+  {
+    "id": "3847295",
+    "category": "Vegetables",
+    "name": "Carrots",
+    "expiresAt": "2024-11-28",
+    "price": 1.49,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 35
+  },
+  {
+    "id": "7129384",
+    "category": "Vegetables",
+    "name": "Garlic Bulb",
+    "expiresAt": "2025-03-15",
+    "price": 0.99,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 78
+  },
+  {
+    "id": "2938475",
+    "category": "Vegetables",
+    "name": "Green Zucchini",
+    "expiresAt": "2024-09-21",
+    "price": 1.99,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 29
+  },
+  {
+    "id": "8472931",
+    "category": "Vegetables",
+    "name": "Asparagus",
+    "expiresAt": "2024-09-11",
+    "price": 4.99,
+    "weight": "250g",
+    "packagingUnit": "bunch",
+    "available": 12
+  },
+  {
+    "id": "5362819",
+    "category": "Vegetables",
+    "name": "Mushrooms",
+    "expiresAt": "2024-09-29",
+    "price": 2.79,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 5
+  },
+  {
+    "id": "1928379",
+    "category": "Fruits",
+    "name": "Avocados",
+    "expiresAt": "2024-10-05",
+    "price": 2.29,
+    "weight": "200g",
+    "packagingUnit": "each",
+    "available": 34
+  },
+  {
+    "id": "7283944",
+    "category": "Vegetables",
+    "name": "Cucumbers",
+    "expiresAt": "2024-11-12",
+    "price": 1.19,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 27
+  },
+  {
+    "id": "9182736",
+    "category": "Vegetables",
+    "name": "Kale",
+    "expiresAt": "2024-09-19",
+    "price": 3.49,
+    "weight": "200g",
+    "packagingUnit": "bag",
+    "available": 14
+  },
+  {
+    "id": "4827395",
+    "category": "Vegetables",
+    "name": "Red Onions",
+    "expiresAt": "2025-02-22",
+    "price": 0.89,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 53
+  },
+  {
+    "id": "2738491",
+    "category": "Fruits",
+    "name": "Lemons",
+    "expiresAt": "2024-12-18",
+    "price": 0.69,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 89
+  },
+  {
+    "id": "6372819",
+    "category": "Vegetables",
+    "name": "Ginger",
+    "expiresAt": "2025-04-05",
+    "price": 1.59,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 62
+  },
+  {
+    "id": "8293746",
+    "category": "Vegetables",
+    "name": "Celery Stalks",
+    "expiresAt": "2024-10-29",
+    "price": 1.89,
+    "weight": "400g",
+    "packagingUnit": "bunch",
+    "available": 21
+  },
+  {
+    "id": "3748291",
+    "category": "Vegetables",
+    "name": "Green Beans",
+    "expiresAt": "2024-09-25",
+    "price": 2.69,
+    "weight": "250g",
+    "packagingUnit": "bag",
+    "available": 19
+  },
+  {
+    "id": "1827364",
+    "category": "Vegetables",
+    "name": "Sweet Corn",
+    "expiresAt": "2024-11-08",
+    "price": 1.39,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 47
+  },
+  {
+    "id": "5728391",
+    "category": "Vegetables",
+    "name": "Butternut Squash",
+    "expiresAt": "2024-10-21",
+    "price": 2.49,
+    "weight": "1kg",
+    "packagingUnit": "each",
+    "available": 12
+  },
+  {
+    "id": "9126423",
+    "category": "Vegetables",
+    "name": "Cauliflower Head",
+    "expiresAt": "2024-09-26",
+    "price": 1.99,
+    "weight": "700g",
+    "packagingUnit": "each",
+    "available": 25
+  },
+  {
+    "id": "4537221",
+    "category": "Vegetables",
+    "name": "Yellow Bell Peppers",
+    "expiresAt": "2024-10-12",
+    "price": 1.39,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 31
+  },
+  {
+    "id": "1928314",
+    "category": "Vegetables",
+    "name": "Arugula",
+    "expiresAt": "2024-09-19",
+    "price": 2.99,
+    "weight": "100g",
+    "packagingUnit": "bag",
+    "available": 6
+  },
+  {
+    "id": "6273899",
+    "category": "Vegetables",
+    "name": "Shallots",
+    "expiresAt": "2024-11-05",
+    "price": 1.29,
+    "weight": "500g",
+    "packagingUnit": "bag",
+    "available": 38
+  },
+  {
+    "id": "3847235",
+    "category": "Vegetables",
+    "name": "Parsnips",
+    "expiresAt": "2024-10-08",
+    "price": 1.79,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 29
+  },
+  {
+    "id": "7129324",
+    "category": "Vegetables",
+    "name": "Fresh Turmeric Root",
+    "expiresAt": "2025-02-18",
+    "price": 2.19,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 15
+  },
+  {
+    "id": "2938415",
+    "category": "Vegetables",
+    "name": "Yellow Zucchini",
+    "expiresAt": "2024-12-29",
+    "price": 2.29,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 22
+  },
+  {
+    "id": "8472991",
+    "category": "Vegetables",
+    "name": "Brussels Sprouts",
+    "expiresAt": "2024-09-11",
+    "price": 3.49,
+    "weight": "500g",
+    "packagingUnit": "bag",
+    "available": 18
+  },
+  {
+    "id": "5362899",
+    "category": "Vegetables",
+    "name": "Portobello Mushrooms",
+    "expiresAt": "2025-01-22",
+    "price": 3.99,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 11
+  },
+  {
+    "id": "1928396",
+    "category": "Vegetables",
+    "name": "Roma Tomatoes",
+    "expiresAt": "2024-09-28",
+    "price": 2.59,
+    "weight": "500g",
+    "packagingUnit": "punnet",
+    "available": 43
+  },
+  {
+    "id": "7283965",
+    "category": "Vegetables",
+    "name": "Leeks",
+    "expiresAt": "2024-11-19",
+    "price": 1.49,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 21
+  },
+  {
+    "id": "9182796",
+    "category": "Vegetables",
+    "name": "Swiss Chard",
+    "expiresAt": "2025-03-08",
+    "price": 2.79,
+    "weight": "200g",
+    "packagingUnit": "bag",
+    "available": 16
+  },
+  {
+    "id": "4827315",
+    "category": "Vegetables",
+    "name": "Pickling Onions",
+    "expiresAt": "2024-10-25",
+    "price": 1.19,
+    "weight": "500g",
+    "packagingUnit": "bag",
+    "available": 47
+  },
+  {
+    "id": "2738411",
+    "category": "Fruits",
+    "name": "Limes",
+    "expiresAt": "2024-12-05",
+    "price": 0.59,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 74
+  },
+  {
+    "id": "6372899",
+    "category": "Vegetables",
+    "name": "Fresh Galangal",
+    "expiresAt": "2025-01-15",
+    "price": 2.89,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 8
+  },
+  {
+    "id": "8293766",
+    "category": "Vegetables",
+    "name": "Fennel Bulb",
+    "expiresAt": "2024-11-22",
+    "price": 1.69,
+    "weight": "400g",
+    "packagingUnit": "each",
+    "available": 26
+  },
+  {
+    "id": "3748211",
+    "category": "Vegetables",
+    "name": "Sugar Snap Peas",
+    "expiresAt": "2024-09-17",
+    "price": 3.29,
+    "weight": "250g",
+    "packagingUnit": "bag",
+    "available": 14
+  },
+  {
+    "id": "1827394",
+    "category": "Vegetables",
+    "name": "Rainbow Chard",
+    "expiresAt": "2025-02-01",
+    "price": 3.79,
+    "weight": "200g",
+    "packagingUnit": "bag",
+    "available": 9
+  },
+  {
+    "id": "9876543",
+    "category": "Vegetables",
+    "name": "Radishes",
+    "expiresAt": "2024-10-03",
+    "price": 1.09,
+    "weight": "250g",
+    "packagingUnit": "bunch",
+    "available": 33
+  },
+  {
+    "id": "3456789",
+    "category": "Vegetables",
+    "name": "Organic Spinach",
+    "expiresAt": "2024-10-25",
+    "price": 2.99,
+    "weight": "200g",
+    "packagingUnit": "bag",
+    "available": 17
+  },
+  {
+    "id": "1298765",
+    "category": "Vegetables",
+    "name": "Green Bell Pepper",
+    "expiresAt": "2024-09-22",
+    "price": 0.79,
+    "weight": "150g",
+    "packagingUnit": "each",
+    "available": 28
+  },
+  {
+    "id": "9876547",
+    "category": "Vegetables",
+    "name": "Baby Carrots",
+    "expiresAt": "2024-11-01",
+    "price": 1.49,
+    "weight": "500g",
+    "packagingUnit": "bag",
+    "available": 42
+  },
+  {
+    "id": "8765439",
+    "category": "Vegetables",
+    "name": "Red Onion",
+    "expiresAt": "2024-10-18",
+    "price": 0.69,
+    "weight": "150g",
+    "packagingUnit": "each",
+    "available": 35
+  },
+  {
+    "id": "5678901",
+    "category": "Vegetables",
+    "name": "Garlic Bulb",
+    "expiresAt": "2024-12-15",
+    "price": 0.99,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 51
+  },
+  {
+    "id": "2345678",
+    "category": "Vegetables",
+    "name": "Celery Sticks",
+    "expiresAt": "2024-09-29",
+    "price": 1.29,
+    "weight": "400g",
+    "packagingUnit": "bag",
+    "available": 23
+  },
+  {
+    "id": "7654321",
+    "category": "Vegetables",
+    "name": "Sweet Potatoes",
+    "expiresAt": "2025-01-05",
+    "price": 1.99,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 39
+  },
+  {
+    "id": "4321098",
+    "category": "Vegetables",
+    "name": "Cherry Tomatoes",
+    "expiresAt": "2024-09-15",
+    "price": 2.79,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 19
+  },
+  {
+    "id": "1098765",
+    "category": "Vegetables",
+    "name": "Asparagus Spears",
+    "expiresAt": "2024-10-02",
+    "price": 3.99,
+    "weight": "200g",
+    "packagingUnit": "bunch",
+    "available": 13
+  },
+  {
+    "id": "9012345",
+    "category": "Vegetables",
+    "name": "Brokkoli",
+    "expiresAt": "2024-11-20",
+    "price": 2.29,
+    "weight": "600g",
+    "packagingUnit": "each",
+    "available": 27
+  },
+  {
+    "id": "6789012",
+    "category": "Vegetables",
+    "name": "Ginger Root",
+    "expiresAt": "2024-12-28",
+    "price": 1.79,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 45
+  },
+  {
+    "id": "3210987",
+    "category": "Vegetables",
+    "name": "Green Beans",
+    "expiresAt": "2024-09-20",
+    "price": 2.49,
+    "weight": "250g",
+    "packagingUnit": "bag",
+    "available": 21
+  },
+  {
+    "id": "8901234",
+    "category": "Vegetables",
+    "name": "Corn on the Cob",
+    "expiresAt": "2024-10-10",
+    "price": 1.19,
+    "weight": "150g",
+    "packagingUnit": "each",
+    "available": 33
+  },
+  {
+    "id": "5432109",
+    "category": "Fruits",
+    "name": "Avocados",
+    "expiresAt": "2025-02-12",
+    "price": 1.89,
+    "weight": "150g",
+    "packagingUnit": "each",
+    "available": 49
+  },
+  {
+    "id": "2109876",
+    "category": "Vegetables",
+    "name": "Cucumber",
+    "expiresAt": "2024-09-27",
+    "price": 0.89,
+    "weight": "200g",
+    "packagingUnit": "each",
+    "available": 37
+  },
+  {
+    "id": "7890123",
+    "category": "Vegetables",
+    "name": "White Mushrooms",
+    "expiresAt": "2024-11-14",
+    "price": 2.99,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 25
+  },
+  {
+    "id": "4567890",
+    "category": "Vegetables",
+    "name": "Iceberg Lettuce",
+    "expiresAt": "2024-10-05",
+    "price": 1.59,
+    "weight": "500g",
+    "packagingUnit": "each",
+    "available": 41
+  },
+  {
+    "id": "1234560",
+    "category": "Vegetables",
+    "name": "Potatoes",
+    "expiresAt": "2025-03-01",
+    "price": 0.99,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 53
+  },
+  {
+    "id": "9087654",
+    "category": "Vegetables",
+    "name": "Sweet Peppers Mix",
+    "expiresAt": "2024-10-29",
+    "price": 2.69,
+    "weight": "500g",
+    "packagingUnit": "bag",
+    "available": 15
+  },
+  {
+    "id": "7412589",
+    "category": "Fruits",
+    "name": "Pink Lady Apples",
+    "expiresAt": "2024-10-20",
+    "price": 2.49,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 40
+  },
+  {
+    "id": "3698521",
+    "category": "Fruits",
+    "name": "Black Grapes",
+    "expiresAt": "2024-09-18",
+    "price": 3.99,
+    "weight": "500g",
+    "packagingUnit": "punnet",
+    "available": 12
+  },
+  {
+    "id": "1478523",
+    "category": "Fruits",
+    "name": "Pineapple",
+    "expiresAt": "2024-10-02",
+    "price": 2.99,
+    "weight": "1.2kg",
+    "packagingUnit": "each",
+    "available": 25
+  },
+  {
+    "id": "9632587",
+    "category": "Fruits",
+    "name": "Mango",
+    "expiresAt": "2024-09-25",
+    "price": 1.79,
+    "weight": "300g",
+    "packagingUnit": "each",
+    "available": 31
+  },
+  {
+    "id": "8521479",
+    "category": "Fruits",
+    "name": "Watermelon",
+    "expiresAt": "2024-12-15",
+    "price": 5.99,
+    "weight": "3kg",
+    "packagingUnit": "each",
+    "available": 8
+  },
+  {
+    "id": "2589631",
+    "category": "Fruits",
+    "name": "Cantaloupe Melon",
+    "expiresAt": "2024-11-05",
+    "price": 3.49,
+    "weight": "1.5kg",
+    "packagingUnit": "each",
+    "available": 16
+  },
+  {
+    "id": "4789632",
+    "category": "Fruits",
+    "name": "Strawberries",
+    "expiresAt": "2024-09-16",
+    "price": 4.29,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 28
+  },
+  {
+    "id": "9512368",
+    "category": "Fruits",
+    "name": "Blueberries",
+    "expiresAt": "2025-01-20",
+    "price": 5.79,
+    "weight": "125g",
+    "packagingUnit": "punnet",
+    "available": 45
+  },
+  {
+    "id": "6541239",
+    "category": "Fruits",
+    "name": "Raspberries",
+    "expiresAt": "2024-09-28",
+    "price": 4.99,
+    "weight": "125g",
+    "packagingUnit": "punnet",
+    "available": 19
+  },
+  {
+    "id": "3578521",
+    "category": "Fruits",
+    "name": "Kiwi",
+    "expiresAt": "2024-10-12",
+    "price": 0.79,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 52
+  },
+  {
+    "id": "1596324",
+    "category": "Fruits",
+    "name": "Passion Fruit",
+    "expiresAt": "2025-03-05",
+    "price": 1.29,
+    "weight": "100g",
+    "packagingUnit": "each",
+    "available": 33
+  },
+  {
+    "id": "8963257",
+    "category": "Fruits",
+    "name": "Pomegranate",
+    "expiresAt": "2024-11-18",
+    "price": 2.89,
+    "weight": "250g",
+    "packagingUnit": "each",
+    "available": 21
+  },
+  {
+    "id": "7895214",
+    "category": "Fruits",
+    "name": "Nectarines",
+    "expiresAt": "2024-09-22",
+    "price": 3.29,
+    "weight": "500g",
+    "packagingUnit": "punnet",
+    "available": 17
+  },
+  {
+    "id": "2365874",
+    "category": "Fruits",
+    "name": "Apricots",
+    "expiresAt": "2024-10-28",
+    "price": 4.59,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 29
+  },
+  {
+    "id": "5896321",
+    "category": "Fruits",
+    "name": "Plums",
+    "expiresAt": "2025-02-10",
+    "price": 2.99,
+    "weight": "500g",
+    "packagingUnit": "punnet",
+    "available": 38
+  },
+  {
+    "id": "4125879",
+    "category": "Fruits",
+    "name": "Figs",
+    "expiresAt": "2024-09-19",
+    "price": 6.99,
+    "weight": "200g",
+    "packagingUnit": "punnet",
+    "available": 14
+  },
+  {
+    "id": "9874125",
+    "category": "Fruits",
+    "name": "Blood Oranges",
+    "expiresAt": "2024-11-02",
+    "price": 2.19,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 26
+  },
+  {
+    "id": "6235897",
+    "category": "Fruits",
+    "name": "Clementines",
+    "expiresAt": "2024-12-28",
+    "price": 1.99,
+    "weight": "500g",
+    "packagingUnit": "bag",
+    "available": 41
+  },
+  {
+    "id": "2587413",
+    "category": "Fruits",
+    "name": "Grapefruit",
+    "expiresAt": "2025-01-15",
+    "price": 1.49,
+    "weight": "400g",
+    "packagingUnit": "each",
+    "available": 18
+  },
+  {
+    "id": "7412583",
+    "category": "Fruits",
+    "name": "Green Apples",
+    "expiresAt": "2024-10-26",
+    "price": 1.99,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 35
+  },
+  {
+    "id": "7412365",
+    "category": "Fruits",
+    "name": "Honeycrisp Apples",
+    "expiresAt": "2024-10-25",
+    "price": 3.29,
+    "weight": "1kg",
+    "packagingUnit": "bag",
+    "available": 28
+  },
+  {
+    "id": "3987521",
+    "category": "Fruits",
+    "name": "Papaya",
+    "expiresAt": "2024-09-30",
+    "price": 4.29,
+    "weight": "1.5kg",
+    "packagingUnit": "each",
+    "available": 11
+  },
+  {
+    "id": "7521438",
+    "category": "Fruits",
+    "name": "Golden Kiwis",
+    "expiresAt": "2024-11-09",
+    "price": 2.49,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 32
+  },
+  {
+    "id": "1597483",
+    "category": "Fruits",
+    "name": "Red Seedless Grapes",
+    "expiresAt": "2024-09-27",
+    "price": 3.59,
+    "weight": "500g",
+    "packagingUnit": "punnet",
+    "available": 20
+  },
+  {
+    "id": "9632147",
+    "category": "Fruits",
+    "name": "Yellow Peaches",
+    "expiresAt": "2024-09-11",
+    "price": 3.79,
+    "weight": "500g",
+    "packagingUnit": "punnet",
+    "available": 22
+  },
+  {
+    "id": "3214579",
+    "category": "Fruits",
+    "name": "Cherries",
+    "expiresAt": "2024-09-11",
+    "price": 6.49,
+    "weight": "250g",
+    "packagingUnit": "punnet",
+    "available": 27
+  },
+  {
+    "id": "7894561",
+    "category": "Fruits",
+    "name": "Tangerines",
+    "expiresAt": "2025-09-10",
+    "price": 1.79,
+    "weight": "500g",
+    "packagingUnit": "bag",
+    "available": 19
+  }
+]
