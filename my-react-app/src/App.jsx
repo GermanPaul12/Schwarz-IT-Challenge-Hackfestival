@@ -5,25 +5,25 @@ import ProductCard from './ProductCard';
 function App() {
   const initialProducts = [
     {
-      name: 'Product 1',
-      price: '$20.00',
-      expiryDate: '2024-12-31',
+      name: 'Strawberries',
+      price: '5€/kg',
+      expiryDate: '09.09.2024',
       image: 'https://via.placeholder.com/150',
-      availableAmount: 100,
+      availableAmount: 100, // Make availableAmount a number
     },
     {
-      name: 'Product 2',
-      price: '$15.00',
-      expiryDate: '2024-11-15',
+      name: 'Olive Oil',
+      price: '6.99€/l',
+      expiryDate: '10.09.2024',
       image: 'https://via.placeholder.com/150',
-      availableAmount: 50,
+      availableAmount: 50, // Make availableAmount a number
     },
     {
-      name: 'Product 3',
-      price: '$30.00',
-      expiryDate: '2025-01-10',
+      name: 'Bananas',
+      price: '1.39€/kg',
+      expiryDate: '09.09.2024',
       image: 'https://via.placeholder.com/150',
-      availableAmount: 75,
+      availableAmount: 75, // Make availableAmount a number
     },
     {
       name: 'Product 4',

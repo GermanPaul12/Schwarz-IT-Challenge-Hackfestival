@@ -1,19 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
+import './ProductCard.css';
 
-function ProductCard({ product, selectedAmount, handleAmountChange, handleReserve, index }) {
-  const [errorMessage, setErrorMessage] = useState('');
-
-  const onReserveClick = () => {
-    if (selectedAmount <= 0) {
-      setErrorMessage('Please select a valid amount.');
-    } else if (selectedAmount > product.availableAmount) {
-      setErrorMessage('Not enough stock available.');
-    } else {
-      setErrorMessage('');
-      handleReserve(index);
-    }
-  };
-
+const ProductCard = ({ product, selectedAmount, handleAmountChange, handleReserve, index }) => {
   return (
     <div className="product-card">
       <img src={product.image} alt={product.name} className="product-image" />
@@ -22,25 +10,22 @@ function ProductCard({ product, selectedAmount, handleAmountChange, handleReserv
           <h2>{product.name}</h2>
           <p className="price">{product.price}</p>
         </div>
-        <div className="product-meta">
-          <p>Expiry Date: {product.expiryDate}</p>
-          <p>Available: {product.availableAmount}</p>
+        <p>Grab until: {product.expiryDate}</p>
+        <p>Available Amount: {product.availableAmount} kg</p>
+        <div className="product-actions">
+          <input
+            type="number"
+            value={selectedAmount}
+            min="0"
+            max={product.availableAmount}
+            onChange={(e) => handleAmountChange(index, Number(e.target.value))}
+            placeholder="Amount"
+          />
+          <button onClick={() => handleReserve(index)}>Reserve</button>
         </div>
       </div>
-      <div className="product-actions">
-        <input
-          type="number"
-          min="1"
-          max={product.availableAmount}
-          value={selectedAmount}
-          onChange={(e) => handleAmountChange(index, Number(e.target.value))}
-          placeholder="Enter amount to reserve"
-        />
-        <button onClick={onReserveClick}>Reserve</button>
-      </div>
-      {errorMessage && <p className="error-message">{errorMessage}</p>}
     </div>
   );
-}
+};
 
 export default ProductCard;
