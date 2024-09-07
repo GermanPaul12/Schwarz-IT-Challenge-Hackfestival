@@ -8,21 +8,21 @@ function App() {
       name: 'Strawberries',
       price: '5€/kg',
       expiryDate: '09.09.2024',
-      image: 'https://via.placeholder.com/150',
+      image: 'src/assets/strawberries.jpg',
       availableAmount: 100, // Make availableAmount a number
     },
     {
       name: 'Olive Oil',
       price: '6.99€/l',
       expiryDate: '10.09.2024',
-      image: 'https://via.placeholder.com/150',
+      image: 'src/assets/olive_oil.jpg',
       availableAmount: 50, // Make availableAmount a number
     },
     {
       name: 'Bananas',
       price: '1.39€/kg',
       expiryDate: '09.09.2024',
-      image: 'https://via.placeholder.com/150',
+      image: 'src/assets/bananas.jpg',
       availableAmount: 75, // Make availableAmount a number
     },
     {
