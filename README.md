@@ -1,6 +1,6 @@
-# Schwarz IT Challenge Hackfestival
+# Schwarz IT Challenge Hackfestival Team RheinHacker
 
-## Steps to run web-app locally
+## Steps to run b2b prototype web-app locally
 
 1. `cd my-react-app`
 2. `curl -fsSL https://bun.sh/install`
