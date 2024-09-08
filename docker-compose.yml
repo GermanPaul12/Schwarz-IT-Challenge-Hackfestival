@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    container_name: wastage_pipeline
+    volumes:
+      - ./app:/app                # Mount the app directory
+      - ./logs:/logs              # Mount logs directory
+    environment:
+      - OPENAI_API_KEY=your-openai-api-key  # Replace with your OpenAI API key
+    command: /bin/bash /app/scheduler.sh   # Run the scheduler shell script
